@@ -107,6 +107,7 @@ us by the API.
 - It gives the real-time weather including whether it is daytime or nighttime.
 - It automatically gets your location securely.
 - You are able to select any other city you want to see the weather of.
+- The dropdown menu has a "search bar" function, if you click the dropdown menu you can type in the city you want to enter and it will give you options
 
 ### What we couldn't accomplish
 
