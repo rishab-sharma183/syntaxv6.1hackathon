@@ -116,7 +116,9 @@ us by the API.
 - We weren't able to get a greater number of days for the future forecast because we are making this project without any expenses.
  
 # To access the main website, go to the link below
+## Note: You need to look at it through this link as it won't work when run locally on a computer!
 ## https://hackathondps.pythonmage.repl.co
+
 
 ### Thank you for visiting,
 #### Regards, Rishab Sharma and Hanif Patel of Boston World School
